@@ -1,10 +1,10 @@
-![Баннер](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/banner.png)
-![Ссылки](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/linssi.png)
-[![Discord](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/discord.png)](https://discord.com/invite/BZHgF65Xp6)
-[![Modrinth](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/modrinth.png)](https://modrinth.com/user/Guardian_50)
-[![CurseForge](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/curseforge.png)](https://www.curseforge.com/members/guardian_50)
-![Описание|Description](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/desopi.png)
-![ENG](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/eng.png)
+![Баннер](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/banner.png)
+![Ссылки](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/linssi.png)
+[![Discord](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/discord.png)](https://discord.com/invite/BZHgF65Xp6)
+[![Modrinth](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/modrinth.png)](https://modrinth.com/user/Guardian_50)
+[![CurseForge](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/curseforge.png)](https://www.curseforge.com/members/guardian_50)
+![Описание|Description](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/desopi.png)
+![ENG](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/eng.png)
 
 ### RTF Extension - is a resource pack that improves and expands Russian translations for Minecraft mods on versions 1.16.5 to 1.21+
 
@@ -20,7 +20,7 @@ Join our [Discord](https://discord.gg/BZHgF65Xp6) community if you:
 ## Using RTF_E in Modpacks
 RTF_E is designed to make modpack creation easier. You're welcome to include RTF_E in your modpack, but please credit this project
 
-![RU](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/ru.png)
+![RU](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/ru.png)
 
 ### RTF Extension - это ресурс-пак, исправляющий и дополняющий русские переводы модификаций Minecraft на версиях 1.16.5-1.21+
 
@@ -309,7 +309,7 @@ RTF_E is designed to make modpack creation easier. You're welcome to include RTF
 - [Let's do] Farm and charm
 </details>
 
-![Авторы|Authors](https://raw.githubusercontent.com/Starwine-Studios/branding/refs/heads/main/rtf/autavt.png)
+![Авторы|Authors](https://raw.githubusercontent.com/vorinvyd/testtest/refs/heads/main/rtf/autavt.png)
 
 <details>
 <summary>Guardian</summary>
